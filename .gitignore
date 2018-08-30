@@ -1,0 +1,19 @@
+# Create a whitelist instead of a blacklist.
+*
+
+# Whitelist git files.
+!.gitignore
+
+# Whitelist CMakeFiles.
+!CMakeLists.txt
+
+# Whitelist Source files.
+!*.cpp
+!*.hpp
+!*.cc
+!*.c
+!*.h
+!*.inl
+
+# Whitelist Markdown files.
+!*.md
